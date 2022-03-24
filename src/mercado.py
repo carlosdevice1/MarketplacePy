@@ -18,7 +18,7 @@ def main() -> None:
 def menu() -> None:
     print('======================================')
     print('=========== Bem-vindo(a) =============')
-    print('=========== Matheus Shop =============')
+    print('=========== TONKS Shop =============')
     print('======================================')
 
     print('\nSelecione uma das opções abaixo:')
