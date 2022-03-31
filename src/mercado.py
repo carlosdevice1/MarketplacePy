@@ -4,10 +4,10 @@ from time import sleep
 from models.produto import Produto
 from utils.helper import formata_float_str_moeda
 
-# Lista de produtos
+# Lista de produtos para adicionar 
 produtos: List[Produto] = []
 
-# Uma lista de dicionarios
+# Uma lista de dicionarios 
 carrinho: List[Dict[Produto, int]] = []
 
 
