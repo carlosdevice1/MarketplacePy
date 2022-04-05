@@ -19,7 +19,7 @@ def menu() -> None:
     print('========================================')
     print('============ Bem-vindo(a) =============')
     print('=========== TONKS Shop =============')
-    print('======================================')
+    print('========================================')
 
     print('\nSelecione uma das opções abaixo:')
     print('\t1 - Cadastrar produto')
